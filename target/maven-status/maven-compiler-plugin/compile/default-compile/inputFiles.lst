@@ -1,0 +1,12 @@
+/Applications/Projects Idea/SiteProject/src/main/java/forms/UserInfo.java
+/Applications/Projects Idea/SiteProject/src/main/java/repositories/UsersRepositoryJdbcImpl.java
+/Applications/Projects Idea/SiteProject/src/main/java/models/User.java
+/Applications/Projects Idea/SiteProject/src/main/java/servlets/RegistrationServlet.java
+/Applications/Projects Idea/SiteProject/src/main/java/servlets/SignInServlet.java
+/Applications/Projects Idea/SiteProject/src/main/java/repositories/UsersRepository.java
+/Applications/Projects Idea/SiteProject/src/main/java/forms/SignInForm.java
+/Applications/Projects Idea/SiteProject/src/main/java/repositories/CrudRepository.java
+/Applications/Projects Idea/SiteProject/src/main/java/services/UsersServiceImpl.java
+/Applications/Projects Idea/SiteProject/src/main/java/services/UsersService.java
+/Applications/Projects Idea/SiteProject/src/main/java/servlets/ProfileServlet.java
+/Applications/Projects Idea/SiteProject/src/main/java/servlets/UserServlet.java
